@@ -1,0 +1,4 @@
+poda como operacion externa
+mi forma de equilibrar usando dos vectores
+
+docker run --name jenkins-docker --rm -d --privileged --network jenkins --network-alias docker  --env DOCKER_TLS_CERTDIR=/certs  -v jenkins-docker-certs:/certs/client -v jenkins-data:/var/jenkins_home -p 2376:2376 docker:dind --storage-driver overlay2 
