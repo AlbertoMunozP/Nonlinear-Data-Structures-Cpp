@@ -1,4 +1,0 @@
-Considere un arbol A, en el que puede suponer que no hay elementos repetidos. Dado un elemento x, devuelve el camino que existe entre la taiz y el nodo cuyo elemento es x, si existe. Uso de pila, hecho en examenes Abin.
-Implemente una función que, dado un árbol A y un elemento T, realice la poda del subarbol cuya raiz tiene por elemento T. Puede suponer que no hay elementos repetidos en el arbol. (Para eliminar el raiz, tiene que ser fuera de la recursiva porque no sabemos si es hizq o hder en la recursiva, se tiene que hacer aparte).
-Duda podas abin
-Implemente una función que, dado un arbol, devuelve el numero de nodos prosperos que existen en el. Se considera que un nodo es prospero si es estrictamente más rico que sus ascendientes, pero menos que sus descendientes
